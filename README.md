@@ -2,6 +2,7 @@
 Python Based QAM64 MODEM (Modulator - Demodulator) With Scrambler!
 
 Dependencies: 
+
   SciPy ```python -m pip install scipy ```
   Numpy ```python -m pip install numpy ```
   MatplotLib ```python -m pip install matplotlib```
